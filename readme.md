@@ -18,3 +18,4 @@ khởi tạo dự án git;
 git add .
 git commit -m 'message'
 git push
+thay doi
